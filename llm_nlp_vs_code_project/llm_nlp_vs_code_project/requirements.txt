@@ -1,0 +1,10 @@
+google-genai
+python-dotenv
+numpy
+pandas
+scikit-learn
+matplotlib
+sentence-transformers
+faiss-cpu
+pypdf
+chromadb

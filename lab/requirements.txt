@@ -1,0 +1,8 @@
+google-genai
+python-dotenv
+scikit-learn
+numpy
+pandas
+matplotlib
+pypdf
+faiss-cpu

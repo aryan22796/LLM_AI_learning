@@ -1,0 +1,10 @@
+Extract structured information from the text.
+Return ONLY valid JSON with this schema:
+{
+  "topic": "string",
+  "important_terms": ["string"],
+  "difficulty": "beginner|intermediate|advanced"
+}
+
+TEXT:
+{input_text}

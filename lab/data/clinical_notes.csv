@@ -1,0 +1,7 @@
+note,label
+"Patient reports fever cough and fatigue. Doctor suspects viral infection and recommends rest.",negative
+"Patient is recovering well after treatment. No fever. Appetite improved.",positive
+"Severe chest pain and shortness of breath. Immediate evaluation required.",negative
+"Blood pressure is stable and patient feels better after medication.",positive
+"Persistent headache and dizziness noted. Follow up needed.",negative
+"Wound healing normally. No signs of infection.",positive

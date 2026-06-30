@@ -1,0 +1,5 @@
+Large Language Models are AI systems trained on large text datasets. They predict the next token based on context.
+Tokens are small units of text such as words, subwords, or characters. Embeddings convert tokens into numerical vectors.
+RAG stands for Retrieval Augmented Generation. It retrieves relevant information from documents and sends that context to an LLM.
+Chunking means splitting a large document into smaller pieces. Similarity search finds the chunks most related to a question.
+Evaluation checks whether retrieved chunks are relevant and whether the answer is faithful to the source.

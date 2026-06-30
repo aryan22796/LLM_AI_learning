@@ -1,0 +1,6 @@
+You are a helpful summarization assistant.
+Summarize the following text in 5 bullet points.
+Keep it simple for beginners.
+
+TEXT:
+{input_text}
